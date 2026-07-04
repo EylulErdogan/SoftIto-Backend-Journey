@@ -41,24 +41,23 @@ My goal is not only to build working software, but also to write clean, maintain
 | 🛠 Technologies | 20+ |
 | 📚 Architecture Patterns | 6+ |
 | 🚀 Final Project | RealEstateVehiclePlatform |
-
 # 📚 Projects
 
-> Throughout my **320-hour SoftIto Backend Development Academy**, I developed multiple real-world projects using different software architectures, database approaches, and backend technologies. Each project helped me gain practical experience with modern .NET development.
+> Throughout my **320-hour SoftIto Backend Development Academy**, I developed multiple real-world projects using different architectures and backend technologies.
 
-| No | Project | Project Type | Key Technologies | Status | Repository |
-|:--:|----------|--------------|------------------|:------:|------------|
-| **01** | 🍽️ **The Grill** | Restaurant Management System | `Code First` • `EF Core` • `LINQ` • `Reporting` • `PDF/Excel` | ✅ | [Open Repository](https://github.com/eylulerdogan/01-TheGrill) |
-| **02** | 🚗 **CarBook** | Vehicle Rental System | `Database First` • `Identity` • `Reporting` • `PDF/Excel` | ✅ | [Open Repository](https://github.com/eylulerdogan/02-CarBook) |
-| **03** | 🏋️ **SportClub** | Sports Club Management | `N-Tier` • `Repository` • `Unit Of Work` • `Search` • `Dashboard` | ✅ | [Open Repository](https://github.com/eylulerdogan/03-SportClub) |
-| **04** | 📄 **Razor Pages Project** | Management System | `Razor Pages` • `ADO.NET` • `Authentication` • `Reporting` | ✅ | [Open Repository](https://github.com/eylulerdogan/04-RazorPagesProject) |
-| **05** | 🎬 **FlixGo** | Movie Management System | `AJAX` • `jQuery` • `Dynamic CRUD` • `Reporting` | ✅ | [Open Repository](https://github.com/eylulerdogan/05-FlixGo) |
-| **06** | 🌐 **CodeFirstApi** | RESTful Web API | `ASP.NET Core API` • `EF Core` • `Swagger` • `CRUD` | ✅ | [Open Repository](https://github.com/eylulerdogan/06-CodeFirstApi) |
-| **07** | 👟 **StylishStore** | E-Commerce Platform | `MVC + API` • `Identity` • `Two Databases` • `Search` • `PDF/Excel` | ✅ | [Open Repository](https://github.com/eylulerdogan/07-StylishStore) |
-| **08** | 🏠 **Resido** | Real Estate Platform | `Dapper` • `Stored Procedures` • `ADO.NET` • `Reporting` | ✅ | [Open Repository](https://github.com/eylulerdogan/08-Resido) |
-| **09** | 💄 **AuraBeautyStore** | Beauty Store | `MVC + API` • `Dapper` • `Stored Procedures` • `Authentication` | ✅ | [Open Repository](https://github.com/eylulerdogan/09-AuraBeautyStore) |
-| **10** | 💍 **BlissEventPlanner** | Wedding & Event Planning | `Repository` • `Unit Of Work` • `N-Tier` • `Authentication` | ✅ | [Open Repository](https://github.com/eylulerdogan/10-BlissEventPlanner) |
-| **⭐ 11** | 🚀 **RealEstateVehiclePlatform** | Enterprise Marketplace | `MVC` • `Web API` • `Dapper` • `JWT` • `AI Integration` | 🚧 In Progress | Coming Soon |
+| No | Project | Description | Repository |
+|:--:|---------|-------------|:---------:|
+| **01** | 🍽️ **The Grill** | Restaurant Management System built with **Code First**, **Entity Framework Core**, **LINQ**, Reporting, PDF & Excel Export. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/01-TheGrill) |
+| **02** | 🚗 **CarBook** | Vehicle Rental Management System developed using **Database First**, **Identity**, Reporting, PDF & Excel Export. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/02-CarBook) |
+| **03** | 🏋️ **SportClub** | Sports Club Management Dashboard built with **N-Tier Architecture**, **Repository Pattern** and **Unit of Work**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/03-SportClub) |
+| **04** | 📄 **Razor Pages Project** | Management System developed with **Razor Pages**, **ADO.NET**, Authentication and Reporting. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/04-RazorPagesProject) |
+| **05** | 🎬 **FlixGo** | Movie Management System developed using **AJAX**, **jQuery** and dynamic CRUD operations. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/05-FlixGo) |
+| **06** | 🌐 **CodeFirstApi** | RESTful Web API developed with **ASP.NET Core Web API**, **Entity Framework Core** and **Swagger**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/06-CodeFirstApi) |
+| **07** | 👟 **StylishStore** | E-Commerce application developed with **MVC + Web API**, **Identity**, API Integration and two separate databases. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/07-StylishStore) |
+| **08** | 🏠 **Resido** | Real Estate Platform developed using **Dapper**, **Stored Procedures** and **ADO.NET**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/08-Resido) |
+| **09** | 💄 **Aura Beauty Store** | Beauty Store built with **MVC + Web API**, **Dapper**, Stored Procedures and Authentication. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/09-AuraBeautyStore) |
+| **10** | 💍 **Bliss Event Planner** | Wedding & Event Planning platform built using **N-Tier Architecture**, **Repository Pattern** and **Unit of Work**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/10-BlissEventPlanner) |
+| **⭐ 11** | 🚀 **RealEstateVehiclePlatform** | Enterprise-level marketplace platform inspired by Sahibinden. **Currently under development.** | 🚧 Coming Soon |
 
 ---
 
