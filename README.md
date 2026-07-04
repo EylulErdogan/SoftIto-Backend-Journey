@@ -1,115 +1,46 @@
+<!-- HEADER -->
+
+<div align="center">
+
 # 🚀 SoftIto Backend Engineering Journey
 
-> My complete backend development journey throughout the **320-hour SoftIto Backend Development Academy**.
+### 320 Hours of Backend Development with Microsoft .NET Technologies
 
-This repository showcases all the projects I developed during the SoftIto Backend Development Academy. Throughout this journey, I gained hands-on experience with modern .NET technologies by building real-world applications using different software architectures, database approaches, and backend development techniques.
-
----
-
-# 👨‍💻 About This Journey
-
-During this academy I learned and practiced:
-
-- C#
-- Object-Oriented Programming (OOP)
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Razor Pages
-- Entity Framework Core
-- Dapper
-- ADO.NET
-- SQL Server
-- LINQ
-- Identity
-- Authentication & Authorization
-- Repository Pattern
-- Unit of Work
-- N-Tier Architecture
-- AJAX
-- Swagger
-- RESTful API Development
-- PDF Export
-- Excel Export
-- Reporting
-- Git & GitHub
+Building enterprise-level applications using modern .NET technologies throughout the SoftIto Backend Development Academy.
 
 ---
 
-# 📊 Journey Statistics
+![GitHub last commit](https://img.shields.io/github/last-commit/eylulerdogan/SoftIto-Backend-Journey?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/eylulerdogan/SoftIto-Backend-Journey?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/eylulerdogan/SoftIto-Backend-Journey?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/eylulerdogan/SoftIto-Backend-Journey?style=for-the-badge)
 
-| Information | Details |
-|-------------|---------|
+</div>
+
+---
+
+# 👋 Welcome
+
+Welcome to my **SoftIto Backend Engineering Journey** repository.
+
+This repository documents my complete learning journey during the **320-hour SoftIto Backend Development Academy**, where I developed multiple real-world projects using Microsoft's .NET ecosystem.
+
+Throughout this journey I gained practical experience with modern backend development, software architecture, authentication, API development, reporting, database management, and enterprise application design.
+
+My goal is not only to build working software, but also to write clean, maintainable, scalable, and production-ready code.
+
+---
+
+# 🎯 Journey Overview
+
+| 📌 Information | Details |
+|---------------|---------|
 | 🎓 Academy | SoftIto Backend Development Academy |
-| ⏱ Training Duration | 320 Hours |
-| 💻 Projects Completed | 10 |
-| 🛠 Technologies Used | 20+ |
-| 🚀 Final Enterprise Project | Coming Soon |
-
----
-
-# 📚 Projects
-
-| No | Project | Architecture | Technologies | Status |
-|----|----------|--------------|--------------|--------|
-| 01 | 🍽️ The Grill | Code First | ASP.NET Core MVC, EF Core, LINQ | ✅ |
-| 02 | 🚗 CarBook | Database First | ASP.NET Core MVC, EF Core, Identity | ✅ |
-| 03 | 🏋️ Sport Club | N-Tier Architecture | EF Core, Repository Pattern | ✅ |
-| 04 | 📄 Razor Pages Project | Razor Pages | ADO.NET | ✅ |
-| 05 | 🎬 FlixGo | ASP.NET Core MVC | AJAX, jQuery | ✅ |
-| 06 | 🌐 Code First Web API | ASP.NET Core Web API | EF Core, Swagger | ✅ |
-| 07 | 👟 Stylish Store | API + MVC | EF Core, Identity, REST API | ✅ |
-| 08 | 🏠 Resido | Dapper Architecture | Dapper, Stored Procedures, ADO.NET | ✅ |
-| 09 | 💄 Aura Beauty Store | API + MVC | Dapper, Stored Procedures, REST API | ✅ |
-| 10 | 💍 Bliss Event Planner | N-Tier Architecture | Repository Pattern, Unit of Work, EF Core | ✅ |
-| ⭐ 11 | RealEstateVehiclePlatform | Enterprise Architecture | Coming Soon | 🚧 |
-
----
-
-# 🛠 Technologies Used
-
-## Programming Language
-
-- C#
-
-## Backend
-
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Razor Pages
-
-## Database
-
-- SQL Server
-- Entity Framework Core
-- Dapper
-- ADO.NET
-- LINQ
-- Stored Procedures
-
-## Architecture
-
-- Code First
-- Database First
-- N-Tier Architecture
-- Repository Pattern
-- Unit Of Work
-
-## Authentication
-
-- ASP.NET Identity
-- Login & Register
-- Authorization
-
-## Additional Features
-
-- CRUD Operations
-- Search Operations
-- Reporting
-- PDF Export
-- Excel Export
-- AJAX
-- Swagger
-- REST API Integration
+| ⏱ Duration | 320 Hours |
+| 💻 Projects | 11 |
+| 🛠 Technologies | 20+ |
+| 📚 Architecture Patterns | 6+ |
+| 🚀 Final Project | RealEstateVehiclePlatform |
 
 ---
 
@@ -117,153 +48,488 @@ During this academy I learned and practiced:
 
 ```text
 C#
-        │
-        ▼
+ │
+ ▼
 Object-Oriented Programming
-        │
-        ▼
+ │
+ ▼
 SQL Server
-        │
-        ▼
+ │
+ ▼
 LINQ
-        │
-        ▼
+ │
+ ▼
 Entity Framework Core
-        │
-        ▼
+ │
+ ▼
 Database First
-        │
-        ▼
+ │
+ ▼
 Code First
-        │
-        ▼
+ │
+ ▼
 N-Tier Architecture
-        │
-        ▼
+ │
+ ▼
 Identity
-        │
-        ▼
+ │
+ ▼
 Razor Pages
-        │
-        ▼
+ │
+ ▼
 AJAX
-        │
-        ▼
-REST API
-        │
-        ▼
+ │
+ ▼
+ASP.NET Core Web API
+ │
+ ▼
 Swagger
-        │
-        ▼
+ │
+ ▼
 API + MVC Integration
-        │
-        ▼
+ │
+ ▼
 Dapper
-        │
-        ▼
+ │
+ ▼
 Stored Procedures
-        │
-        ▼
+ │
+ ▼
 Repository Pattern
-        │
-        ▼
+ │
+ ▼
 Unit Of Work
-        │
-        ▼
-Enterprise Project
+ │
+ ▼
+Enterprise Application Development
 ```
-
----
-
 # 🎯 Skills Acquired
 
-✔ Object-Oriented Programming
+✅ Object-Oriented Programming (OOP)
 
-✔ Database Design
+✅ ASP.NET Core MVC
 
-✔ ASP.NET Core MVC
+✅ ASP.NET Core Web API
 
-✔ ASP.NET Core Web API
+✅ Razor Pages
 
-✔ Razor Pages
+✅ Entity Framework Core
 
-✔ Entity Framework Core
+✅ Dapper
 
-✔ Dapper
+✅ SQL Server
 
-✔ Repository Pattern
+✅ LINQ
 
-✔ Unit Of Work
+✅ Repository Pattern
 
-✔ Identity Authentication
+✅ Unit Of Work
 
-✔ CRUD Operations
+✅ Identity Authentication
 
-✔ Reporting
+✅ CRUD Operations
 
-✔ RESTful API Development
+✅ Search Operations
 
-✔ AJAX
+✅ RESTful API Development
 
-✔ SQL Server
+✅ Swagger
 
-✔ PDF & Excel Export
+✅ AJAX
 
-✔ Git Version Control
+✅ Reporting
+
+✅ PDF Export
+
+✅ Excel Export
+
+✅ Git & GitHub
+
+
+# 📚 Projects
+
+During the SoftIto Backend Development Academy, I developed multiple projects using different architectures and Microsoft .NET technologies. Each project focused on solving different real-world scenarios while improving my backend development skills.
 
 ---
 
-# 🚀 Final Project
+# 🍽️ 01 - The Grill
 
-The final project of this journey will be a comprehensive enterprise-level application developed using modern .NET technologies.
+### Restaurant Management System
 
-## Planned Technologies
+A restaurant menu management application developed using the **Code First** approach with Entity Framework Core.
 
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Entity Framework Core
-- Dapper
-- Identity
-- JWT Authentication
-- Repository Pattern
-- Unit Of Work
-- Clean Architecture
-- Caching
-- Logging
+### 🚀 Features
+
+- CRUD Operations
+- LINQ Queries
+- Reporting Dashboard
 - PDF Export
 - Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `LINQ`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🚗 02 - CarBook
+
+### Vehicle Rental Management System
+
+A Database First project developed using Entity Framework Core for managing vehicle rentals.
+
+### 🚀 Features
+
+- CRUD Operations
+- Reporting Dashboard
+- Login & Register
+- Identity Authentication
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Database First`
+`Identity`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🏋️ 03 - Sport Club
+
+### Sports Club Management System
+
+An N-Tier Architecture project developed using Entity Framework Core and Repository Pattern.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search Operations
+- Reporting
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Repository Pattern`
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 📄 04 - Razor Pages Project
+
+### Management System with Razor Pages
+
+Developed using Razor Pages and ADO.NET.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Reporting
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core Razor Pages`
+`ADO.NET`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🎬 05 - FlixGo
+
+### Movie Management System
+
+A movie management application developed using AJAX and ASP.NET Core MVC.
+
+### 🚀 Features
+
+- AJAX CRUD Operations
+- Reporting Dashboard
+- Dynamic Data Management
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`AJAX`
+`jQuery`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🌐 06 - Code First Web API
+
+### REST API Project
+
+A RESTful Web API project developed with Entity Framework Core.
+
+### 🚀 Features
+
+- REST API
+- CRUD Operations
+- Swagger Documentation
+
+### 🛠 Technologies
+
+`ASP.NET Core Web API`
+`Entity Framework Core`
+`Swagger`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 👟 07 - Stylish Store
+
+### Shoe Store E-Commerce
+
+An MVC application consuming data from a separate Web API.
+
+### 🚀 Features
+
+- API Integration
+- CRUD Operations
+- Search
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`ASP.NET Core Web API`
+`Entity Framework Core`
+`Identity`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🏠 08 - Resido
+
+### Real Estate Reservation Platform
+
+A real estate project developed using Dapper, Stored Procedures and ADO.NET.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Login & Register
+- Reporting
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`Dapper`
+`ADO.NET`
+`Stored Procedure`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 💄 09 - Aura
+
+### Beauty Store
+
+An API & MVC based beauty shopping platform.
+
+### 🚀 Features
+
+- API Integration
+- CRUD Operations
+- Search
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`ASP.NET Core Web API`
+`Dapper`
+`Stored Procedure`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 💍 10 - Bliss
+
+### Wedding & Event Planning Platform
+
+An N-Tier Architecture project developed using Repository Pattern and Unit of Work.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Login & Register
+- Reporting
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Repository Pattern`
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# ⭐ 11 - RealEstateVehiclePlatform
+
+### Enterprise Marketplace Platform
+
+A modern marketplace application inspired by platforms like Sahibinden.
+
+🚧 **Currently under development.**
+
+### Planned Features
+
+- Property Listings
+- Vehicle Listings
+- User Authentication
+- JWT
+- Identity
+- Messaging
+- Favorites
 - AI Integration
+- PDF Export
+- Excel Export
+- Caching
+- Logging
+- Repository Pattern
+- Unit Of Work
 
-🚧 **Project is currently under development.**
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+
+`ASP.NET Core Web API`
+
+`Entity Framework Core`
+
+`Dapper`
+
+`Identity`
+
+`JWT`
+
+`Repository Pattern`
+
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📂 Repository Structure
+# 🔥 Contribution Graph
 
-```
-SoftIto-Backend-Journey
-│
-├── 01-TheGrill
-├── 02-CarBook
-├── 03-SportClub
-├── 04-RazorPagesProject
-├── 05-FlixGo
-├── 06-CodeFirstApi
-├── 07-StylishStore
-├── 08-Resido
-├── 09-Aura
-├── 10-Bliss
-└── 11-RealEstateVehiclePlatform
-```
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-# 🌟 Purpose
+# 📈 My Learning Philosophy
 
-This repository documents my learning journey throughout the SoftIto Backend Development Academy and demonstrates my progression in backend development using Microsoft's .NET ecosystem.
+> "Learning by building real-world projects."
 
-Each project focuses on different technologies and architectural approaches, allowing me to gain practical experience with real-world software development.
+Every project in this repository represents a new technology, architecture, or software development concept that I learned throughout the SoftIto Backend Development Academy.
+
+Rather than focusing only on theory, I believe in improving my skills by developing practical applications and solving real-world problems.
 
 ---
 
-### ⭐ Thank you for visiting my GitHub Portfolio!
+# 🎯 Future Goals
+
+✔ Build scalable enterprise applications
+
+✔ Master ASP.NET Core ecosystem
+
+✔ Improve software architecture skills
+
+✔ Learn Microservices Architecture
+
+✔ Docker & Kubernetes
+
+✔ Cloud Technologies (Azure)
+
+✔ CI/CD Pipelines
+
+✔ Clean Architecture
+
+✔ Design Patterns
+
+✔ Artificial Intelligence Integration
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/E-Mail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thank You for Visiting!
+
+If you like my projects, don't forget to leave a ⭐ on the repositories.
+
+I’m continuously improving my skills by building real-world applications with modern .NET technologies.
+
+**Happy Coding! 🚀**
+
+</div>
