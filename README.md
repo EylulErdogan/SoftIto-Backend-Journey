@@ -44,6 +44,25 @@ My goal is not only to build working software, but also to write clean, maintain
 
 ---
 
+# 📚 Projects
+
+| No | Project | Architecture | Technologies | Status |
+|----|----------|--------------|--------------|--------|
+| 01 | 🍽️ The Grill | Code First | ASP.NET Core MVC, EF Core, LINQ | ✅ |
+| 02 | 🚗 CarBook | Database First | ASP.NET Core MVC, EF Core, Identity | ✅ |
+| 03 | 🏋️ Sport Club | N-Tier Architecture | EF Core, Repository Pattern | ✅ |
+| 04 | 📄 Razor Pages Project | Razor Pages | ADO.NET | ✅ |
+| 05 | 🎬 FlixGo | ASP.NET Core MVC | AJAX, jQuery | ✅ |
+| 06 | 🌐 Code First Web API | ASP.NET Core Web API | EF Core, Swagger | ✅ |
+| 07 | 👟 Stylish Store | API + MVC | EF Core, Identity, REST API | ✅ |
+| 08 | 🏠 Resido | Dapper Architecture | Dapper, Stored Procedures, ADO.NET | ✅ |
+| 09 | 💄 Aura Beauty Store | API + MVC | Dapper, Stored Procedures, REST API | ✅ |
+| 10 | 💍 Bliss Event Planner | N-Tier Architecture | Repository Pattern, Unit of Work, EF Core | ✅ |
+| ⭐ 11 | RealEstateVehiclePlatform | Enterprise Architecture | Coming Soon | 🚧 |
+
+---
+
+
 # 📈 Learning Roadmap
 
 ```text
