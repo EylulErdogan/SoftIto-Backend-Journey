@@ -144,7 +144,306 @@ Enterprise Application Development
 ✅ Excel Export
 
 ✅ Git & GitHub
+# 📚 Projects
 
+During the SoftIto Backend Development Academy, I developed multiple projects using different architectures and Microsoft .NET technologies. Each project focused on solving different real-world scenarios while improving my backend development skills.
+
+---
+
+# 🍽️ 01 - The Grill
+
+### Restaurant Management System
+
+A restaurant menu management application developed using the **Code First** approach with Entity Framework Core.
+
+### 🚀 Features
+
+- CRUD Operations
+- LINQ Queries
+- Reporting Dashboard
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `LINQ`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🚗 02 - CarBook
+
+### Vehicle Rental Management System
+
+A Database First project developed using Entity Framework Core for managing vehicle rentals.
+
+### 🚀 Features
+
+- CRUD Operations
+- Reporting Dashboard
+- Login & Register
+- Identity Authentication
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Database First`
+`Identity`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🏋️ 03 - Sport Club
+
+### Sports Club Management System
+
+An N-Tier Architecture project developed using Entity Framework Core and Repository Pattern.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search Operations
+- Reporting
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Repository Pattern`
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 📄 04 - Razor Pages Project
+
+### Management System with Razor Pages
+
+Developed using Razor Pages and ADO.NET.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Reporting
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core Razor Pages`
+`ADO.NET`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🎬 05 - FlixGo
+
+### Movie Management System
+
+A movie management application developed using AJAX and ASP.NET Core MVC.
+
+### 🚀 Features
+
+- AJAX CRUD Operations
+- Reporting Dashboard
+- Dynamic Data Management
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`AJAX`
+`jQuery`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🌐 06 - Code First Web API
+
+### REST API Project
+
+A RESTful Web API project developed with Entity Framework Core.
+
+### 🚀 Features
+
+- REST API
+- CRUD Operations
+- Swagger Documentation
+
+### 🛠 Technologies
+
+`ASP.NET Core Web API`
+`Entity Framework Core`
+`Swagger`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 👟 07 - Stylish Store
+
+### Shoe Store E-Commerce
+
+An MVC application consuming data from a separate Web API.
+
+### 🚀 Features
+
+- API Integration
+- CRUD Operations
+- Search
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`ASP.NET Core Web API`
+`Entity Framework Core`
+`Identity`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 🏠 08 - Resido
+
+### Real Estate Reservation Platform
+
+A real estate project developed using Dapper, Stored Procedures and ADO.NET.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Login & Register
+- Reporting
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`Dapper`
+`ADO.NET`
+`Stored Procedure`
+`SQL Server`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 💄 09 - Aura
+
+### Beauty Store
+
+An API & MVC based beauty shopping platform.
+
+### 🚀 Features
+
+- API Integration
+- CRUD Operations
+- Search
+- Login & Register
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`ASP.NET Core Web API`
+`Dapper`
+`Stored Procedure`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# 💍 10 - Bliss
+
+### Wedding & Event Planning Platform
+
+An N-Tier Architecture project developed using Repository Pattern and Unit of Work.
+
+### 🚀 Features
+
+- CRUD Operations
+- Search
+- Login & Register
+- Reporting
+- PDF Export
+- Excel Export
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+`Entity Framework Core`
+`Repository Pattern`
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
+
+# ⭐ 11 - RealEstateVehiclePlatform
+
+### Enterprise Marketplace Platform
+
+A modern marketplace application inspired by platforms like Sahibinden.
+
+🚧 **Currently under development.**
+
+### Planned Features
+
+- Property Listings
+- Vehicle Listings
+- User Authentication
+- JWT
+- Identity
+- Messaging
+- Favorites
+- AI Integration
+- PDF Export
+- Excel Export
+- Caching
+- Logging
+- Repository Pattern
+- Unit Of Work
+
+### 🛠 Technologies
+
+`ASP.NET Core MVC`
+
+`ASP.NET Core Web API`
+
+`Entity Framework Core`
+
+`Dapper`
+
+`Identity`
+
+`JWT`
+
+`Repository Pattern`
+
+`Unit Of Work`
+
+🔗 **Repository:** *(Coming Soon)*
+
+---
 
 # 📂 Featured Projects
 
