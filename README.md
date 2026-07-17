@@ -57,7 +57,7 @@ My goal is not only to build working software, but also to write clean, maintain
 | **08** | 🏠 **Resido** | Real Estate Platform developed using **Dapper**, **Stored Procedures** and **ADO.NET**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/08-Resido) |
 | **09** | 💄 **Aura Beauty Store** | Beauty Store built with **MVC + Web API**, **Dapper**, Stored Procedures and Authentication. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/09-AuraBeautyStore) |
 | **10** | 💍 **Bliss Event Planner** | Wedding & Event Planning platform built using **N-Tier Architecture**, **Repository Pattern** and **Unit of Work**. | 📁 [**Go to Repository**](https://github.com/eylulerdogan/10-BlissEventPlanner) |
-| **⭐ 11** | 🚀 **RealEstateVehiclePlatform** | Enterprise-level marketplace platform inspired by Sahibinden. **Currently under development.** | 🚧 Coming Soon |
+| **⭐ 11** | 🚀 **RealEstateVehiclePlatform** | Enterprise-level marketplace platform inspired by Sahibinden. **Currently under development.**| 📁 [**Go to Repository**](https://github.com/EylulErdogan/RealEstateVehiclePlatform) |
 
 ---
 
